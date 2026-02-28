@@ -10,7 +10,7 @@ Bu proje, bir sınıfın vize ve final notlarını işleyerek istatistiksel çan
 - `np.select` metodu ile istatistiksel koşullara göre (ortalamanın ve standart sapmanın altı/üstü) harf notları (AA, BB, CC, FF) tek kalemde ve yüksek hızda atandı.
 
 ## Kullanılan Teknolojiler
-- **Dil:** Python 3
+- **Dil:** Python 3.13
 - **Kütüphaneler:** Pandas, NumPy
 
 ## Nasıl Çalıştırılır?
