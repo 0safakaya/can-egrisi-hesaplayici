@@ -1,4 +1,4 @@
-# 🎓 Üniversite Çan Eğrisi (Curve) Hesaplayıcı
+                        # 🎓 Üniversite Çan Eğrisi (Curve) Hesaplayıcı
 
 Bu proje, bir sınıfın vize ve final notlarını işleyerek istatistiksel çan eğrisi çıkaran ve harf notlarını hesaplayan bir veri analizi betiğidir.
 
